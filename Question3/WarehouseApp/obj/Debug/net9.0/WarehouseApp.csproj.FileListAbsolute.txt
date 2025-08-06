@@ -1,0 +1,15 @@
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/bin/Debug/net9.0/WarehouseApp
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/bin/Debug/net9.0/WarehouseApp.deps.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/bin/Debug/net9.0/WarehouseApp.runtimeconfig.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/bin/Debug/net9.0/WarehouseApp.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/bin/Debug/net9.0/WarehouseApp.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/obj/Debug/net9.0/WarehouseApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/obj/Debug/net9.0/WarehouseApp.AssemblyInfoInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/obj/Debug/net9.0/WarehouseApp.AssemblyInfo.cs
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/obj/Debug/net9.0/WarehouseApp.csproj.CoreCompileInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/obj/Debug/net9.0/WarehouseApp.sourcelink.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/obj/Debug/net9.0/WarehouseApp.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/obj/Debug/net9.0/refint/WarehouseApp.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/obj/Debug/net9.0/WarehouseApp.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/obj/Debug/net9.0/WarehouseApp.genruntimeconfig.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question3/WarehouseApp/obj/Debug/net9.0/ref/WarehouseApp.dll
