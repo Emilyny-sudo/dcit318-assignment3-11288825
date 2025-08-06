@@ -1,0 +1,15 @@
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/bin/Debug/net9.0/Question5-ImmutableInventory
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/bin/Debug/net9.0/Question5-ImmutableInventory.deps.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/bin/Debug/net9.0/Question5-ImmutableInventory.runtimeconfig.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/bin/Debug/net9.0/Question5-ImmutableInventory.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/bin/Debug/net9.0/Question5-ImmutableInventory.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/obj/Debug/net9.0/Question5-ImmutableInventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/obj/Debug/net9.0/Question5-ImmutableInventory.AssemblyInfoInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/obj/Debug/net9.0/Question5-ImmutableInventory.AssemblyInfo.cs
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/obj/Debug/net9.0/Question5-ImmutableInventory.csproj.CoreCompileInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/obj/Debug/net9.0/Question5-ImmutableInventory.sourcelink.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/obj/Debug/net9.0/Question5-ImmutableInventory.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/obj/Debug/net9.0/refint/Question5-ImmutableInventory.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/obj/Debug/net9.0/Question5-ImmutableInventory.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/obj/Debug/net9.0/Question5-ImmutableInventory.genruntimeconfig.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question5-ImmutableInventory/obj/Debug/net9.0/ref/Question5-ImmutableInventory.dll
