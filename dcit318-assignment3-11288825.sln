@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Question1", "Question1", "{A2C1951C-FA15-F76C-A097-11A73A79FFB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceApp", "Question1\FinanceApp\FinanceApp.csproj", "{08143F13-0199-ED14-F3EF-F0C2DFBC0E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08143F13-0199-ED14-F3EF-F0C2DFBC0E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08143F13-0199-ED14-F3EF-F0C2DFBC0E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08143F13-0199-ED14-F3EF-F0C2DFBC0E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08143F13-0199-ED14-F3EF-F0C2DFBC0E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{08143F13-0199-ED14-F3EF-F0C2DFBC0E14} = {A2C1951C-FA15-F76C-A097-11A73A79FFB0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E068E3CB-4B68-429A-ACBF-65ABD8028CB4}
+	EndGlobalSection
+EndGlobal

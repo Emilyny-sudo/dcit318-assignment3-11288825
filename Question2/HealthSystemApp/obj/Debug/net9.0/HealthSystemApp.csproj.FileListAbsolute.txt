@@ -1,0 +1,15 @@
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/bin/Debug/net9.0/HealthSystemApp
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/bin/Debug/net9.0/HealthSystemApp.deps.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/bin/Debug/net9.0/HealthSystemApp.runtimeconfig.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/bin/Debug/net9.0/HealthSystemApp.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/bin/Debug/net9.0/HealthSystemApp.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/obj/Debug/net9.0/HealthSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/obj/Debug/net9.0/HealthSystemApp.AssemblyInfoInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/obj/Debug/net9.0/HealthSystemApp.AssemblyInfo.cs
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/obj/Debug/net9.0/HealthSystemApp.csproj.CoreCompileInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/obj/Debug/net9.0/HealthSystemApp.sourcelink.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/obj/Debug/net9.0/HealthSystemApp.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/obj/Debug/net9.0/refint/HealthSystemApp.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/obj/Debug/net9.0/HealthSystemApp.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/obj/Debug/net9.0/HealthSystemApp.genruntimeconfig.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Question2/HealthSystemApp/obj/Debug/net9.0/ref/HealthSystemApp.dll
