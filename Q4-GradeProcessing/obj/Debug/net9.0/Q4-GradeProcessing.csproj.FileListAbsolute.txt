@@ -1,0 +1,15 @@
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/bin/Debug/net9.0/Q4-GradeProcessing
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/bin/Debug/net9.0/Q4-GradeProcessing.deps.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/bin/Debug/net9.0/Q4-GradeProcessing.runtimeconfig.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/bin/Debug/net9.0/Q4-GradeProcessing.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/bin/Debug/net9.0/Q4-GradeProcessing.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/obj/Debug/net9.0/Q4-GradeProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/obj/Debug/net9.0/Q4-GradeProcessing.AssemblyInfoInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/obj/Debug/net9.0/Q4-GradeProcessing.AssemblyInfo.cs
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/obj/Debug/net9.0/Q4-GradeProcessing.csproj.CoreCompileInputs.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/obj/Debug/net9.0/Q4-GradeProcessing.sourcelink.json
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/obj/Debug/net9.0/Q4-GradeProcessing.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/obj/Debug/net9.0/refint/Q4-GradeProcessing.dll
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/obj/Debug/net9.0/Q4-GradeProcessing.pdb
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/obj/Debug/net9.0/Q4-GradeProcessing.genruntimeconfig.cache
+/Users/mb11in2k15/Desktop/dcit318-assignment3-11288825/Q4-GradeProcessing/obj/Debug/net9.0/ref/Q4-GradeProcessing.dll
